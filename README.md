@@ -38,9 +38,9 @@ I am a **Data Analyst and System Design Architect** who doesn't just look at cha
 ---
 
 ### ⚡ Beyond the Terminal
-* **Calisthenics**: Working on that perfect muscle-up.
-* **Classical Guitar**: Currently mastering "Hekmet El Ayam" by Amir Eid.
-* **Anime**: Firm believer that *86: Eighty-Six* is a cinematic masterpiece.
+* **📖 Reader**: I consume books and novels faster than my Python scripts run.
+* **🎸 Guitarist**: Often found practicing **classical guitar** to decompress after a long day of debugging.
+* **🎮 Gamer**: I approach **Valorant** and **God of War** with the same strategic mindset I use for data modeling.
 
 ---
 
