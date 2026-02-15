@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Faisal Abdulaziz (Faisool)
+# 👋 Hello, I'm Faisal Alahmadi (Faisool)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analyst-Specialist-blue?style=for-the-badge&logo=analysis" />
@@ -9,11 +9,11 @@
 ---
 
 ### 🏛️ The Architect & Analyst
-[cite_start]I am a **Data Analyst and System Design Architect** who doesn't just look at charts—I build the engines that power them[cite: 2, 7]. [cite_start]Currently in my 3rd year of **Business Analytics** at the **Egyptian Russian University**[cite: 56, 57].
+I am a **Data Analyst and System Design Architect** who doesn't just look at charts—I build the engines that power them. Currently in my 3rd year of **Business Analytics** at the **Egyptian Russian University**, I bridge the gap between complex data architecture and real-world business ROI.
 
-* [cite_start]**Logic First**: I design **3NF database schemas** and **ERDs** that ensure data integrity from the ground up[cite: 8, 12, 25].
-* [cite_start]**Predictive Power**: I build end-to-end ML pipelines with **75% accuracy**, like my **IMDb Forecasting Engine**[cite: 30].
-* [cite_start]**Business Savvy**: I translate technical "mumbo-jumbo" into actionable **ROI** and business strategy[cite: 14, 18, 42].
+* **Logic First**: I design **3NF database schemas** and **ERDs** so clean they’d make a librarian jealous.
+* **Predictive Power**: I build end-to-end ML pipelines, like my **IMDb Forecasting Engine** which hits ~75% accuracy.
+* **Business Savvy**: I translate technical "mumbo-jumbo" into actionable strategy and operational efficiency.
 
 ---
 
@@ -30,17 +30,17 @@
 ---
 
 ### 🚀 Featured Masterpieces
-* [cite_start]**🏎️ Onyx Auto Analytics**: A full-stack **R Shiny** dashboard with a Random Forest regressor trained on 19,000+ records[cite: 49, 50, 51].
-* [cite_start]**🎬 IMDb Strategic Engine**: A **Streamlit** cloud app predicting movie success using Gradient Boosting[cite: 28, 31, 32].
-* [cite_start]**🏥 Vet Clinic System**: A full system blueprint—from **ERD** normalization to **Figma** UI prototyping[cite: 24, 27].
-* [cite_start]**🚇 MTA Ridership Intelligence**: **Power BI** dashboards solving NYC metro bottlenecks[cite: 35, 36, 38].
+* **🏎️ Onyx Auto Analytics**: A full-stack **R Shiny** dashboard with a Random Forest engine trained on 19,000+ records.
+* **🎬 IMDb Strategic Engine**: A **Streamlit** cloud application predicting box office success with Gradient Boosting.
+* **🏥 Vet Clinic System**: A full system blueprint—from **ERD** normalization to high-fidelity **Figma** prototyping.
+* **🚇 MTA Ridership Intelligence**: Interactive **Power BI** dashboards identifying NYC metro bottlenecks.
 
 ---
 
 ### ⚡ Beyond the Terminal
-* **Calisthenics**: Mastering the art of the muscle-up.
-* **Classical Guitar**: Playing "Hekmet El Ayam" by Amir Eid.
-* **Anime**: Still waiting for everyone to admit *86: Eighty-Six* is a masterpiece.
+* **Calisthenics**: Working on that perfect muscle-up.
+* **Classical Guitar**: Currently mastering "Hekmet El Ayam" by Amir Eid.
+* **Anime**: Firm believer that *86: Eighty-Six* is a cinematic masterpiece.
 
 ---
 
